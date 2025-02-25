@@ -26,5 +26,7 @@ run `npm install` !!
 run `npm install` !!
 run `npm install` !!
 run `npm install` !!
+run `npm install` !!
+run `npm install` !!
 
 Then `npm run start`
