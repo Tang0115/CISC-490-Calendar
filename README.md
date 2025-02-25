@@ -5,5 +5,26 @@ run `npm install` !!
 run `npm install` !!
 run `npm install` !!
 run `npm install` !!
+run `npm install` !!
+run `npm install` !!
+run `npm install` !!
+run `npm install` !!
+run `npm install` !!
+run `npm install` !!
+run `npm install` !!
+run `npm install` !!
+run `npm install` !!
+run `npm install` !!
+run `npm install` !!
+run `npm install` !!
+run `npm install` !!
+run `npm install` !!
+run `npm install` !!
+run `npm install` !!
+run `npm install` !!
+run `npm install` !!
+run `npm install` !!
+run `npm install` !!
+run `npm install` !!
 
-Then npm run start
+Then `npm run start`
